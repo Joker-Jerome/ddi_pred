@@ -1,0 +1,5 @@
+15	0	bigmem03.grace.hpc.yale.internal	2020-03-06 12:04:13	2020-03-06 13:06:39	3745.95	python3 /ysm-gpfs/pi/zhao/zy92/projects/ddipred/ddi_pred/code/xgboost/xgboost_ddipred.py 4 1
+16	0	bigmem03.grace.hpc.yale.internal	2020-03-06 12:04:13	2020-03-06 13:15:12	4258.82	python3 /ysm-gpfs/pi/zhao/zy92/projects/ddipred/ddi_pred/code/xgboost/xgboost_ddipred.py 4 2
+17	0	bigmem03.grace.hpc.yale.internal	2020-03-06 12:04:13	2020-03-06 13:26:43	4949.70	python3 /ysm-gpfs/pi/zhao/zy92/projects/ddipred/ddi_pred/code/xgboost/xgboost_ddipred.py 4 3
+18	0	bigmem03.grace.hpc.yale.internal	2020-03-06 12:04:13	2020-03-06 13:35:48	5494.52	python3 /ysm-gpfs/pi/zhao/zy92/projects/ddipred/ddi_pred/code/xgboost/xgboost_ddipred.py 4 4
+19	0	bigmem03.grace.hpc.yale.internal	2020-03-06 12:04:13	2020-03-06 13:46:28	6134.32	python3 /ysm-gpfs/pi/zhao/zy92/projects/ddipred/ddi_pred/code/xgboost/xgboost_ddipred.py 4 5
