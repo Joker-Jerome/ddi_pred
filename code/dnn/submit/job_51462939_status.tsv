@@ -1,0 +1,5 @@
+1	1	bigmem03.grace.hpc.yale.internal	2020-03-14 12:00:18	2020-03-14 12:05:20	301.71	python /ysm-gpfs/pi/zhao/zy92/projects/ddipred/ddi_pred/code/dnn/ann.py 2
+3	1	bigmem03.grace.hpc.yale.internal	2020-03-14 12:00:18	2020-03-14 12:05:20	302.30	python /ysm-gpfs/pi/zhao/zy92/projects/ddipred/ddi_pred/code/dnn/ann.py 4
+4	1	bigmem03.grace.hpc.yale.internal	2020-03-14 12:00:18	2020-03-14 12:05:21	303.27	python /ysm-gpfs/pi/zhao/zy92/projects/ddipred/ddi_pred/code/dnn/ann.py 5
+2	1	bigmem03.grace.hpc.yale.internal	2020-03-14 12:00:18	2020-03-14 12:05:22	303.57	python /ysm-gpfs/pi/zhao/zy92/projects/ddipred/ddi_pred/code/dnn/ann.py 3
+0	1	bigmem03.grace.hpc.yale.internal	2020-03-14 12:00:18	2020-03-14 12:05:27	308.47	python /ysm-gpfs/pi/zhao/zy92/projects/ddipred/ddi_pred/code/dnn/ann.py 1

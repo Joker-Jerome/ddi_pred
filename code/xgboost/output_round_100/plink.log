@@ -1,0 +1,12 @@
+PLINK v1.90b3.45 64-bit (13 Jan 2017)
+Options in effect:
+  --lookup rs376342519
+
+Hostname: farnam1.farnam.hpc.yale.internal
+Working directory: /gpfs/loomis/pi/zhao2/zy92/projects/ddipred/ddi_pred/code/xgboost/output_round_100
+Start time: Thu Mar 19 17:45:26 2020
+
+Error: --lookup commands have been retired since the Sullivan Lab web database
+is no longer operational.  Use e.g. PLINK/SEQ's lookup command instead.
+
+End time: Thu Mar 19 17:45:26 2020

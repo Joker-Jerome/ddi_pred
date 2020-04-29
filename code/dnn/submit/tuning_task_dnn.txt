@@ -1,0 +1,5 @@
+python /ysm-gpfs/pi/zhao/zy92/projects/ddipred/ddi_pred/code/dnn/ann.py 1
+python /ysm-gpfs/pi/zhao/zy92/projects/ddipred/ddi_pred/code/dnn/ann.py 2
+python /ysm-gpfs/pi/zhao/zy92/projects/ddipred/ddi_pred/code/dnn/ann.py 3
+python /ysm-gpfs/pi/zhao/zy92/projects/ddipred/ddi_pred/code/dnn/ann.py 4
+python /ysm-gpfs/pi/zhao/zy92/projects/ddipred/ddi_pred/code/dnn/ann.py 5
